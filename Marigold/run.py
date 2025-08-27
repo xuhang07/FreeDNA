@@ -245,7 +245,7 @@ if "__main__" == __name__:
     with torch.no_grad():
         os.makedirs(output_dir, exist_ok=True)
         i=0
-        train_noise_variance = np.load('noise_list_day.npy')
+        # train_noise_variance = np.load('noise_list_day.npy')
         train_noise_variance = None
         for rgb_path,depth_path in tqdm(zip(rgb_filename_list,depth_filename_list), desc="Estimating depth", leave=True):
             i=i+1
