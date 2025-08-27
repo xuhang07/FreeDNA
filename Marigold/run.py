@@ -243,7 +243,6 @@ if "__main__" == __name__:
 
     # -------------------- Inference and saving --------------------
     with torch.no_grad():
-        os.makedirs('mask_80',exist_ok=True)
         os.makedirs(output_dir, exist_ok=True)
         i=0
         train_noise_variance = np.load('noise_list_day.npy')
