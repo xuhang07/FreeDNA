@@ -32,5 +32,7 @@ Many parts of this code are adapted from:
 - [Marigold](https://github.com/prs-eth/Marigold)
 - [STEPS](https://github.com/ucaszyp/STEPS)
 - [ADM-ES](https://github.com/forever208/ADM-ES)
+- [DiffBIR](https://github.com/XPixelGroup/DiffBIR)
+- [OpenDDVM](https://github.com/DQiaole/FlowDiffusion_pytorch)
 
 We thank the authors for sharing codes for their great works.
