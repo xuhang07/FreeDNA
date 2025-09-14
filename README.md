@@ -23,6 +23,8 @@ You can evaluate the predictions will the following instructions:
 python eval_robotcar.py
 ```
 
+### More Applications
+We have also implemented our method on [DiffBIR](https://github.com/XPixelGroup/DiffBIR) and [OpenDDVM](https://github.com/DQiaole/FlowDiffusion_pytorch). Please follow the documentation in their respective folders or the procedures provided by their authors for specific details.
 ### Acknowledgement
 
 Many parts of this code are adapted from:
